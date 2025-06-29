@@ -1,5 +1,5 @@
 # 该项目不再维护
-jjsjsjwijswiswj
+I am learning coding and also know little bit chinese. I am interested in learning both and want to contribute in project in future to make it better...Thanks in Advance
 本项目因为过久没有更新，适配Api老旧，所以该项目已经没有使用意义，这里也不再维护！
 
 # RikkaMusic
